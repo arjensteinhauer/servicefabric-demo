@@ -126,7 +126,7 @@
 
                 #region DEMO
                 // demo: new implementation - let's also rotate the shape
-                shape.Angle++;
+                //shape.Angle++;
                 #endregion DEMO
 
                 // save the new position in the state
